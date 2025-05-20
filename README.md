@@ -37,7 +37,8 @@ This project performs **cryptocurrency market clustering** using machine learnin
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/crypto-clustering.git
+   git clone https://github.com/Eder-2024/CryptoClustering.git
+   
 2. Open the notebook in Jupyter or VSCode.
 
 3. Run through the steps to visualize the crypto clusters.
